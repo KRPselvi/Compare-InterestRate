@@ -1,2 +1,2 @@
-## Compare-InterestRate
+Compare-InterestRate
 used C#.Net windows application
